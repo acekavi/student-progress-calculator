@@ -1,0 +1,11 @@
+Pass = 120, Defer = 0, Fail = 0
+Pass = 100, Defer = 20, Fail = 0
+Pass = 100, Defer = 0, Fail = 20
+Pass = 80, Defer = 20, Fail = 20
+Pass = 60, Defer = 40, Fail = 20
+Pass = 40, Defer = 40, Fail = 40
+Pass = 20, Defer = 40, Fail = 60
+Pass = 20, Defer = 20, Fail = 80
+Pass = 20, Defer = 0, Fail = 100
+Pass = 0, Defer = 0, Fail = 120
+*Pass = 60, Defer = 20, Fail = 40
