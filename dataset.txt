@@ -8,4 +8,3 @@ Pass = 20, Defer = 40, Fail = 60
 Pass = 20, Defer = 20, Fail = 80
 Pass = 20, Defer = 0, Fail = 100
 Pass = 0, Defer = 0, Fail = 120
-*Pass = 60, Defer = 20, Fail = 40

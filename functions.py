@@ -117,6 +117,7 @@ class ForStaff:
             else:
                 Histograms(histogram_list).vertical_histogram()
                 Histograms(histogram_list).horizontal_histogram()
+                break
 
 
     def automatic():
