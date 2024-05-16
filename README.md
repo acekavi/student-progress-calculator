@@ -12,7 +12,7 @@ The Student Progress Calculator application helps students and staff track acade
 ## Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/student-progress-calculator.git
+   git clone [https://github.com/yourusername/student-progress-calculator.git](https://github.com/acekavi/student-progress-calculator.git)
    cd student-progress-calculator
    \`\`\`
 
